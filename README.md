@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoondh2002)](https://solved.ac/yoondh2002/)
+## [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoondh2002)](https://solved.ac/yoondh2002/)
 
 ![Programmers Badge](https://raw.githubusercontent.com/hedgehogdot/Programmers_Badge_Generator/main/result/result.svg)
 
